@@ -1,11 +1,11 @@
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Sr. Software Engineer - iOS at [Biofourmis](https://www.biofourmis.com/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Technical Lead - iOS at [Biofourmis](https://www.biofourmis.com/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning software architecture, Combine & SwiftUI.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding for fun since 2010, for food since 2017. 6+ years of experience in enterprise wide mobile apps development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Bengaluru with Leo 🐕.
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Namma Bengaluru.
 
 <p align="center">
   <a href="mailto:udaybhateja@ymail.com?subject=Uday%20Bhateja%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
